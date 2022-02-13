@@ -58,7 +58,7 @@ export default {
       this.todoList = [];
       this.doneList = [];
     }
-  },
+  }
 }
 </script>
 
